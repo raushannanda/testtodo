@@ -1,11 +1,12 @@
 import React,{useState} from 'react';
-import {
+import { 
   Text,
   View,
   StyleSheet,
   TextInput,
   ScrollView,
-  TouchableOpacity
+  TouchableOpacity,
+  Button
 } from 'react-native'
 const App = () => {
   return(
